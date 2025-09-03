@@ -1,10 +1,6 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/BqXJBSFH)
 # C Review
 
-This repo is provides the first lab content for the networks class
-as taught at New York University Abu Dhabi. Familiarity with C is
-expected from pre-requisite courses. This is a quick overview of C
-before we dive into network programming with it.
 
 ## Pre-Requisite
 
